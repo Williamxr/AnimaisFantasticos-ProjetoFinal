@@ -7,3 +7,7 @@
 O foco é no aprendizado da linguagem, mas o principal local de aplicação é na web, através de manipulações do DOM e requisições via Fetch API
 
 ##  Funções emplementadas
+
+🗸 Scroll suave para links internos, ou seja, sempre que o usuário clicar em algum link interno(sobre, contato, serviços), a página faz o scroll de forma suave até à section correspondente
+
+
