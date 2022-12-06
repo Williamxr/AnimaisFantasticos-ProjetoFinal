@@ -14,4 +14,7 @@ O foco é no aprendizado da linguagem, mas o principal local de aplicação é n
 
 🗸 Menu desktop e mobile
 
+🗸 Funcionalidade que indica para o usuário se os canais de atendimento estão ou não funcionando conforme o horário de funcionamento, através de um feedback visual simples
+
+🗸 Fetch que puxa o valor atualizado do Bitcoin em R$ e mostra para o usuário quanto ele pode doar para ajudar o projeto
 
